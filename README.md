@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oussama   call me NaTsU
-- 👀 I’m interested in mobile app and everythings can be programed
+- 👀 I’m interested in mobile app 
 - 🌱 I’m currently learning c++
 
 
