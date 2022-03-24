@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oussama   call me NaTsU
-- 👀 I’m interested in mobile app 
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in full stack devlopment
+- 🌱 I’m currently learning c++ , python , css
 
 
 <!---
